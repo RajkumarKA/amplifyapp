@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Heading1 {
+  color:  blue;
+}
+
+Heading1 {
+  color:  red;
+}
+
+#Heading1 {
+  color:  yellow;
+}

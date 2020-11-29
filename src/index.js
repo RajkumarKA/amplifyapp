@@ -1,11 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './style.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+   <div className="Heading1">Incident ticket fix checklist</div>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
